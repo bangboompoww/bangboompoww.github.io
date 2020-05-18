@@ -1,0 +1,152 @@
+
+
+.anime-images{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  justify-content: stretch;
+}
+
+.anime-images > *{
+  flex-basis: 20rem;
+  flex-shrink: 0;
+}
+
+.anime-images .card{
+  display: flex;
+  flex-direction: column;
+}
+.anime-images .card > .card-content{
+  flex-grow: 1;
+}
+
+.anime-images .card > .card-image{
+  flex-basis: 25rem;
+  flex-shrink: 0;
+  overflow-y: hidden;
+  background-color: grey;
+}
+body{
+  margin: 0;
+  overflow-x: hidden;
+  background-color: whitesmoke;
+}
+
+
+
+.animeimg{
+  margin-right: 20px;
+  height: 50%;
+}
+nav{
+  background-color: whitesmoke;
+  top: 0;
+  height: 100px;
+  text-decoration: none;
+  border-bottom: 3px solid #333;
+
+  
+}
+nav > li {
+  list-style-type: none;
+  font-family: 'Righteous', cursive;
+    font-size: 30px;
+  text-decoration: none;
+  float: right;
+  margin-right: 30px;
+
+  
+  }
+  
+  nav > li  > a{
+    color: #333;
+      text-decoration: none!important;
+
+  }
+
+  nav > li:nth-child(1){
+    float: left;
+  }
+
+  
+
+  .container{
+    max-width: 100%;
+    
+  }
+  .text{
+    color: #333;
+    left: 40px;
+    position: relative;
+    top: 220px;
+    font-family: 'Righteous', cursive;
+  }
+   
+
+  
+
+
+#loader {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  z-index: 1;
+  overflow: visible;
+  background: white url('https://media.giphy.com/media/gSHHJd1ndQlvq/giphy.gif') no-repeat center center;
+}
+
+.text > h1{
+  transform: translateY(-1200px);
+  animation: heading1 3s forwards ease-in;
+}
+.text > h2 {
+  margin-top: 40px;
+  transform: translateX(-1200px);
+  animation: heading2 4.3s forwards ease-in;
+}
+
+
+@keyframes heading2 {
+    to{
+      transform: translateX(0);
+    }
+}
+@keyframes heading1{
+  to{
+    transform: translateY(0);
+  }
+}
+
+.btn{
+  background-color: #333;
+  border:none
+}
+
+.btn:hover{
+  background-color: red;
+}
+
+
+footer{
+  position: relative;
+  height: 100px;
+  top: 250px;
+  clear: both;
+   background-color: #333;
+   color: white;
+   font-family: 'Righteous', cursive;
+  }
+
+
+
+.images{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.images > img{
+  height: 200px;
+  border-radius: 50%;
+  margin-right: 50px;
+}
