@@ -1,20 +1,22 @@
 aniTop: Front End
 
-Technologies used: HTML,CSS,BOOTSTRAP, JQUERY, AJAX
+**Technologies Used:
+ **HTML,CSS, BOOTSTRAP, VANILLA JAVASCRIPT, JQUERY, AJAX
+
 
 <img width="103" alt="Screen Shot 2020-05-19 at 5 03 34 PM" src="https://user-images.githubusercontent.com/57886930/82378456-22e8b480-99f3-11ea-85cd-8db070e7bf54.png">
 
-Project Overview:
+**Project Overview:
 
 Alot of people have become fans of anime and are very interested in more anime to watch. I know people that watched a few anime but didnt know where to go after that. Therefore, i made a project to help those people get a foundation set of anime to watch. 
 
-User Stories:
+**User Stories:
 
 Age: any age
 For people looking to get into anime, and people lookig for recommended anime. 
 
 
-Why are they using our app?
+**Why are they using our app?
 
 This is an minimalist that is very easy to navigate through. The minimalist look help with unneccesarry added features. 
 
