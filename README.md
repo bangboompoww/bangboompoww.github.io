@@ -1,6 +1,6 @@
 aniTop: Front End
 
-**Technologies Used:
+** **Technologies Used:
  **HTML,CSS, BOOTSTRAP, VANILLA JAVASCRIPT, JQUERY, AJAX
 
 
