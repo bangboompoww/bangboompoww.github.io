@@ -13,9 +13,9 @@ Alot of people have become fans of anime and are very interested in more anime t
 
 **User Stories:**
 
-*Age: any age
+* Age: any age
 
-*For people looking to get into anime, and people looking for recommended anime.
+* For people looking to get into anime, and people looking for recommended anime.
 
 
 
