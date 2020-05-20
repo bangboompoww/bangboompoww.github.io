@@ -21,7 +21,7 @@ Alot of people have become fans of anime and are very interested in more anime t
 
 **Why are they using our app?**
 
-This is an minimalist that is very easy to navigate through. The minimalist look help with unneccesarry added features. 
+This is an minimalist that is very easy to navigate through. The minimalist look helps with unneccesarry added features. 
 
 **Ultimate goal:**
 To build a anime reference app for people to refer too. 
