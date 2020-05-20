@@ -43,6 +43,6 @@ To build a anime reference app for people to refer too.
 
 
 
-**WIREFRAME**
+
 
 
