@@ -37,3 +37,8 @@ To build a anime reference app for people to refer too.
 
 <img width="1440" alt="Screen Shot 2020-05-19 at 4 51 58 PM" src="https://user-images.githubusercontent.com/57886930/82380964-67764f00-99f7-11ea-8b9b-1951a1407453.png">
 
+
+
+**WIREFRAME**
+
+
