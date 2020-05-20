@@ -9,7 +9,7 @@ Technologies Used:
 
 **Project Overview:**
 
-Alot of people have become fans of anime and are very interested in more anime to watch. I know people that watched a few anime but didnt know where to go after that. Therefore, i made a project to help those people get a foundation set of anime to watch. 
+Alot of people have become fans of anime and are very interested in more anime to watch. I know people that watched a few anime but didnt know where to go after that. Therefore, I made a project to help those people get a foundation set of anime to watch. 
 
 **User Stories:**
 
